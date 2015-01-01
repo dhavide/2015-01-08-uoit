@@ -2,7 +2,7 @@
 layout: lesson
 root: .
 title: Setup Instructions
-lessons: ['Bash', 'R', 'Python', 'Git', 'SQL', 'VM']
+lessons: ['Bash', 'Python', 'Git', 'SQL']
 ---
 These instructions are intended to help learners set up their computers.
 Instructors should go through them *before* class starts.
